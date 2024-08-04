@@ -61,7 +61,7 @@ main .container{
     background-color: #dffc80;
     bottom: 264px;
     left: 424px;
-    z-index:  100;
+    z-index:  -1;
     /* position: absolute; */
 
 }
